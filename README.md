@@ -1,2 +1,2 @@
 # Veresiye_Defteri_Projesi
- c# ile yazıldı
+ Küçük bir işletme için yazılmış veresiye  defteri uygulamasıdır
